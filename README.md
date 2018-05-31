@@ -4,14 +4,9 @@
 vue仿的去哪儿
 
 #### 效果图
-- 首页
-  ![avatar](gif/index.gif)
-
-- 列表页
-  ![avatar](gif/city.gif)
-
-- 详情页
-  ![avatar](gif/detail.gif)
+![avatar](gif/index.gif)
+![avatar](gif/city.gif)
+![avatar](gif/detail.gif)
 
 #### 项目架构
 1. vue 2.x框架、vue-cli
